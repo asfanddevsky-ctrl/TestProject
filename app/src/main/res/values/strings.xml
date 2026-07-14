@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_abc">abcActivity</string>
+    <string name="title_activity_demo">DemoActivity</string>
+    <string name="title_activity_main21">MainActivity21</string>
+    <string name="title_activity_arithmatic">ArithmaticActivity</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
