@@ -45,7 +45,7 @@ class FirstActivity : ComponentActivity() {
                 context.startActivity(intent)
             }
         ) {
-            Text("Go to Second Activity")
+            Text("Go to Second Activity New updayted")
         }
     }
 
