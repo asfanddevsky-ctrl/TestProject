@@ -9,4 +9,5 @@
     <string name="title_activity_first">FirstActivity</string>
     <string name="title_activity_second">SecondActivity</string>
     <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_api_test">API Test Activity</string>
 </resources>

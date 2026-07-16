@@ -15,16 +15,22 @@
         android:theme="@style/Theme.DemoProject"
         android:usesCleartextTraffic="true">
         <activity
-            android:name=".ImageActivity"
+            android:name=".ApiTestActivity"
             android:exported="true"
-            android:label="@string/title_activity_image"
-            android:theme="@style/Theme.DemoProject"
-            android:windowSoftInputMode="adjustResize">
+            android:label="@string/title_activity_api_test"
+            android:theme="@style/Theme.DemoProject">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".ImageActivity"
+            android:exported="true"
+            android:label="@string/title_activity_image"
+            android:theme="@style/Theme.DemoProject"
+            android:windowSoftInputMode="adjustResize">
         </activity>
         <activity
             android:name=".FirstActivity"
